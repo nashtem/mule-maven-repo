@@ -1,0 +1,6 @@
+#--- Project filesor folders---#
+target
+.classpath
+catalog
+mule-project.xml
+.settings
